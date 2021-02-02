@@ -1,0 +1,38 @@
+# Maven
+deploy/
+target/
+.idea/
+.mvn
+
+# Eclipse
+.classpath
+.project
+.settings/
+/.externalToolBuilders
+/build
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+/.idea/
+out/
+/hbase/data
+
+
+# vscode
+.vscode
+
+# npm
+node_install/
+node_modules/
+jsdoc/
+
+#mac
+.DS_Store
+
+# FE local build dir
+dist/
+
+# logs
+logs/
